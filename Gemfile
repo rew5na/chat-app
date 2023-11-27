@@ -76,3 +76,6 @@ group :test do
 
   gem "pry"
 end
+
+gem "mini_magick"
+gem "image_processing", "~> 1.2"
