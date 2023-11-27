@@ -71,4 +71,8 @@ group :test do
   gem "webdrivers"
 
   gem "devise"
+
+  gem "pry-rails"
+
+  gem "pry"
 end
